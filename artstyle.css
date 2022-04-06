@@ -1,0 +1,38 @@
+body {
+    width: 1000px;
+    margin: auto;
+}
+a {
+   text-decoration: none;
+   color: rgba(73, 41, 13, 0.842);
+}
+a:hover {
+    text-decoration: underline;
+}
+body {
+    background-color:rgb(255, 255, 235);
+    color:rgba(73, 41, 13, 0.842);
+}
+#table {
+    font-family: 'a시월구일굴림1';
+    padding: 0;
+}
+
+@font-face {
+font-family: a시월굴림1;
+src: url('font/a시월구일굴림1.ttf');
+font-weight: normal;
+}
+.a시월굴림1 {
+    font-family: a시월구일굴림1;
+}
+h1 { text-align: center;}
+h3 { text-align: center;}
+#menu {
+    font-family: 'a시월구일굴림1';
+    padding: 30;
+    text-align: center;}
+#word {text-align: center;}
+#word2 {text-align: center;}
+#finsh{text-align: center;}
+#site {background-color: white;}
